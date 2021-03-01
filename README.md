@@ -9,7 +9,7 @@ The project goal was to publish an app into the marketplace in order to gain exp
 
 you can use this repositry for commercial purposes good luck!
 
-Image:
+Images:
 
 ![image](https://user-images.githubusercontent.com/73305429/109553117-4b9dee80-7adb-11eb-90d4-688847c662c1.png)
 
