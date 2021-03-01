@@ -5,8 +5,9 @@ Simple Calculator Application for mobile phones using Xamarin Forms, containing 
 The calculator calculates the formula given to it by using XpathNavigator.Evaluate function.
 
 ### Google Play & Showcase
-The project goal was to publish a simple app into the marketplace to gain experince in the field.
-you can use this repositry commercial purposes good luck!
+The project goal was to publish an app into the marketplace in order to gain experince in the relevant field.
+
+you can use this repositry for commercial purposes good luck!
 
 Image:
 
