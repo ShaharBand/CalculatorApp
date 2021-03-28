@@ -12,3 +12,7 @@ D:\Xamarian Projects\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
 D:\Xamarian Projects\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
 D:\Xamarian Projects\Calculator\Calculator\obj\Debug\netstandard2.0\ref\Calculator.dll
 D:\Xamarian Projects\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
+D:\Xamarian Projects\Calculator\Calculator\bin\Debug\netstandard2.0\Mono.Android.dll
+D:\Xamarian Projects\Calculator\Calculator\bin\Debug\netstandard2.0\Mono.Android.pdb
+D:\Xamarian Projects\Calculator\Calculator\bin\Debug\netstandard2.0\Mono.Android.xml
+D:\Xamarian Projects\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CopyComplete

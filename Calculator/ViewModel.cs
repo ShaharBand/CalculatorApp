@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
 using System.Xml.XPath;
@@ -148,6 +149,11 @@ namespace Calculator
             // ReSharper restore PossibleNullReferenceException
         }
 
+        private bool IsDigitsOnly(string s)
+        {
+            return s.All(c => (c >= '0' && c <= '9') || c == '.');
+        }
+
         /// <summary>
         /// This function is responsible to return an number without commas to be with commas.
         /// </summary>
@@ -158,7 +164,12 @@ namespace Calculator
             if (!(number is int) && !(number is double) && !(number is string)) return "Syntax Error";
             string num;
             if (number is int || number is double) num = number.ToString();
-            else num = number as string;
+            else
+            {
+                num = number as string;
+                if (!IsDigitsOnly(num))
+                    return num;
+            }
 
             num = num.Trim();
             if (num.Length < 4) return num; // if less than 4 digits no need for commas

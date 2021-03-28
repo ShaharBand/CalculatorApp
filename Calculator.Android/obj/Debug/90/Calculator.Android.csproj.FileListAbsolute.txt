@@ -1,10 +1,5 @@
 D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\Calculator.Android.dll
 D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\Calculator.Android.pdb
-D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\com.companyname.calculator.apk
-D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\com.companyname.calculator.aab
-D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\com.companyname.calculator-Signed.aab
-D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\com.companyname.calculator-Signed.apk
-D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\com.companyname.calculator-Signed.apk.idsig
 D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\Calculator.dll
 D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\Calculator.pdb
 D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
@@ -21,10 +16,7 @@ D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\XamlC.stamp
 D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\Calculator.Android.csproj.CopyComplete
 D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\Calculator.Android.dll
 D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\Calculator.Android.pdb
-D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\android\bin\com.companyname.calculator.apk
 D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\android\bin\base.zip
-D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\android\bin\com.companyname.calculator.aab
-D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\android\bin\com.companyname.calculator.apks
 D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\res\layout\tabbar.xml
 D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\res\layout\toolbar.xml
 D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\res\values\styles.xml
@@ -463,3 +455,13 @@ D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\stamp\_ConvertRe
 D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\com.shaharband.calculator.apk
+D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\com.shaharband.calculator.aab
+D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\com.shaharband.calculator-Signed.aab
+D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\com.shaharband.calculator-Signed.apk
+D:\Xamarian Projects\Calculator\Calculator.Android\bin\Debug\com.shaharband.calculator-Signed.apk.idsig
+D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\android\bin\com.shaharband.calculator.apk
+D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\android\bin\com.shaharband.calculator.aab
+D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\android\bin\com.shaharband.calculator.apks
+D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\res\drawable\icon.png
+D:\Xamarian Projects\Calculator\Calculator.Android\obj\Debug\90\android\src\com\shaharband\calculator\R.java

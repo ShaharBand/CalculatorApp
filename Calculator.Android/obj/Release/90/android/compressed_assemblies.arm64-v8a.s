@@ -8,7 +8,7 @@
 .L.compressed_assembly_descriptors:
 	/* 0: Calculator.Android.dll */
 	/* uncompressed_file_size */
-	.word	197120
+	.word	197632
 	/* loaded */
 	.byte	0
 	/* data */
