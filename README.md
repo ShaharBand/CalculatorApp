@@ -22,7 +22,7 @@ https://play.google.com/store/apps/details?id=com.shaharband.calculator
 ### Possible Improvements
 The application contains the "XpathNavigator.Evaluate" function for evaluating its string formula a better solution will be to deconstruct the string and evaluate it with your own method because, the given formula is limited and does not support many math functions such as integral and power.
 
-Therefore, making extended UI mode for horizontal view with more possbilites would make the calculator better.
+Therefore, making extended UI mode for horizontal view with more possibilities would make the calculator better.
 
 ### To clone this repository:
 
